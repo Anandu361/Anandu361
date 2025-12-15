@@ -7,7 +7,9 @@ I am a Philomath😇.
 I usually work on both frontend and backend stuff - React, Spring Boot, Tailwind CSS, MySQL, etc.
 
 
+![empathy is the new punk rock](https://github.com/user-attachments/assets/36791cbe-e5cd-4d64-a757-a341882aad1a)
 
+Hey, guess who my favourite superheroes are....
 
 
 <!--
