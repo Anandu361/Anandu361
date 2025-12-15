@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Anandu Sujakumari. I am a web developer from Kerala, India.
+
+I am a Philomath😇.
+
+I usually work on both frontend and backend stuff - React, Spring Boot, Tailwind CSS, MySQL, etc.
+
+
+
+
+
 <!--
 **Anandu361/Anandu361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
