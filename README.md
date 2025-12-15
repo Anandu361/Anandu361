@@ -1,11 +1,20 @@
-## Hi there 👋
+## Hey folks 😌
 
 I'm Anandu Sujakumari. I am a web developer from Kerala, India.
 
 I am a Philomath😇.
 
+Not a passionate coder, but I definitely enjoy coding.
+
 I usually work on both frontend and backend stuff - React, Spring Boot, Tailwind CSS, MySQL, etc.
 
+### Tech Stack I'm familiar with...
+
+- React
+- Spring Boot, Django
+- Tailwind CSS, Bootstrap
+- MySQL, MongoDB
+- Python, Java, JavaScript, C
 
 ![empathy is the new punk rock](https://github.com/user-attachments/assets/36791cbe-e5cd-4d64-a757-a341882aad1a)
 
