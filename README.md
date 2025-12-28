@@ -17,6 +17,7 @@ I usually work on both frontend and backend stuff - React, Spring Boot, Tailwind
 - Python, Java, JavaScript, C
 
 ![empathy is the new punk rock](https://github.com/user-attachments/assets/36791cbe-e5cd-4d64-a757-a341882aad1a)
+
 My greatest strength, I never give up....
 
 Shhh..., guess who my favourite superheroes are....
