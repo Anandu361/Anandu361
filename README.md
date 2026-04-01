@@ -10,7 +10,7 @@ I usually work on both frontend and backend stuff - React, Spring Boot, Tailwind
 
 ### Tech Stack I'm familiar with...
 
-- React
+- React, Next js
 - Spring Boot, Django
 - Tailwind CSS, Bootstrap
 - MySQL, MongoDB
